@@ -11,3 +11,7 @@ h1{
 .intro h2{
   font-size: 30px;
 }
+.boxes{ /* this class is added in jQuery*/
+  border: 3px solid red;
+  background-color: lightgreen;
+}
